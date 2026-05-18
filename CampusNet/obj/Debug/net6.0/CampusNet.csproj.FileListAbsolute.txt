@@ -1,0 +1,15 @@
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\bin\Debug\net6.0\CampusNet.exe
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\bin\Debug\net6.0\CampusNet.deps.json
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\bin\Debug\net6.0\CampusNet.runtimeconfig.json
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\bin\Debug\net6.0\CampusNet.dll
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\bin\Debug\net6.0\CampusNet.pdb
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.csproj.AssemblyReference.cache
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.AssemblyInfoInputs.cache
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.AssemblyInfo.cs
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.csproj.CoreCompileInputs.cache
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.dll
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\refint\CampusNet.dll
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.pdb
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\CampusNet.genruntimeconfig.cache
+C:\Users\optim\OneDrive\Imágenes\CampusNet\CampusNet\obj\Debug\net6.0\ref\CampusNet.dll
